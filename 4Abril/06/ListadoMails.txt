@@ -1,4 +1,0 @@
-_______________________________________________
-Python mailing list
-Python@listas.bitson.com.ar
-http://listas.bitson.com.ar/listinfo/python
