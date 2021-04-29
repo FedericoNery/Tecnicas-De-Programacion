@@ -1,17 +1,3 @@
-#!/usr/bin/env python3
-
-#1. Crear una clase Planta con los siguientes atributos:
-#- alto
-#- hojas
-#y los siguientes métodos:
-#- crecer (aumenta el alto +1 o un número especificado)
-#   ej.
-#
-#   crecer()  hace alto = alto + 1
-#   crecer(3)  hace alto = alto + 3
-#
-#- crear_hoja() (aumenta cantidad de hojas en 1 )
-
 class Planta:
     def __init__(self,alto,hojas):
         self.alto=alto
